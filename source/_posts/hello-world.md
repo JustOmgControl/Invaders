@@ -1,7 +1,12 @@
 ---
-title: Hello World
+title: Здравствуйте, дорогие читатели и друзья блога «Invaders»!
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+![Alt-текст](http://cs626426.vk.me/v626426450/5fba/aS378GSEpRQ.jpg "INVADERS")
+# Страница-визитка команды
+### Наша основная деятельность проекта направлена на:
+- Развитие команды
+- Организация команды
+- Реклама/поиск спонсоров 
 
 ## Quick Start
 
